@@ -3,6 +3,7 @@ adriaan
 agan
 alexey
 algoliasearch
+andrewnicols
 anonymized
 anshul
 août
